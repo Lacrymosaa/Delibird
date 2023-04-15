@@ -1,6 +1,6 @@
 # Delibird
 
-Delibird é um programa em python que serve como uma lista de presentes para seu usuário. A idéia é que o usuário coloque um URL (suporte apenas para Amazon) e o programa pegue o nome, preço e armazene o link do produto e armazene-os na caixa da lista. 
+Delibird é um programa em python que serve como uma lista de presentes para seu usuário. A idéia é que o usuário coloque um URL (suporte apenas para Amazon) e o programa pegue o nome, preço e o link do produto e armazene-os na caixa da lista. 
 
 Objetivo:
 - Estudar tkinter para realizar interfaces para programas
