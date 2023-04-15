@@ -1,0 +1,3 @@
+http://httpbin.org/get
+
+Isso mostra a versão usada no useragent do BeautifulSoup, apenas está no diretório para uso futuro.
